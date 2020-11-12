@@ -1,0 +1,22 @@
+{
+	"version": "1.0.0",
+	"name": "super-colorful",
+	"description": "Super mega colorful theme for Roblox LSP extension",
+	"author": "littensy",
+	"publisher": "littensy",
+	"engines": {
+		"vscode": "^1.0.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Super Colorful",
+				"uiTheme": "vs-dark",
+				"path": "./themes/super-colorful.json"
+			}
+		]
+	}
+}
