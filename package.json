@@ -2,6 +2,7 @@
 	"version": "1.0.0",
 	"name": "super-colorful",
 	"description": "Super mega colorful theme mainly for Roblox",
+	"repository": "https://github.com/littensy/vscode-super-colorful",
 	"author": "littensy",
 	"publisher": "littensy",
 	"engines": {
