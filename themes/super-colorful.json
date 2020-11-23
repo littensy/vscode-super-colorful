@@ -166,7 +166,8 @@
             "name": "(Global) Function",
             "scope": [
                 "meta.function",
-                "support.function"
+                "support.function",
+                "entity.name.function"
             ],
             "settings": {
                 "foreground": "#66BAFF"
